@@ -1,0 +1,89 @@
+.location>h5{
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+    margin-bottom: 6px;
+    font-size: 18px;
+}
+.location>p{
+    margin-bottom: 0px;
+    font-size: 13px;
+    font-weight: 400;
+}
+.vertical-line{
+    height: 50px;
+    border-left: 2px solid #f7f7f7;
+}
+
+
+.search-bar{
+    padding: 0px 12px;
+    border: 1px solid rgb(232, 232, 232);
+    border-radius: 12px;
+    background: rgb(248, 248, 248);
+    color: rgb(130, 130, 130);
+}
+.search-bar>input{
+    border: none;
+    background-color: transparent;
+    width: 45vw;
+    height: 43px;
+}
+.itemContainer{
+    width: 80%;
+}
+.itemContainer>img{
+    width: 120px;
+    
+}
+.myContainer{
+    width: 82%;
+    overflow-x: scroll;
+    margin:auto;
+}
+.mylist{
+    margin-top: 5px;
+    white-space: nowrap;
+}
+.mylist>img{
+    height: 210px;
+    padding-inline: 10px;
+}
+
+
+.my-card{
+    width: 179px;
+    border-radius: 15px;
+    padding: 5px;
+    margin-inline: 5px;
+}
+
+.name{
+    color: rgb(31, 31, 31);
+    font-weight: 500;
+    font-size: 15px;
+    padding-bottom: none;
+    margin-bottom: 0px;
+    padding-inline: 2px;
+    
+}
+.weight{
+    font-weight: 100;
+    color: grey;
+    align-items: start;
+    
+}
+
+.price{
+    font-weight: 500;
+}
+
+.bttn{
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+#lastline{
+    text-align: center;
+    margin-top: 25px;
+    color: grey;
+}
